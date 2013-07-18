@@ -1,4 +1,4 @@
-Title: ULX Readme
+Title
 
 __ULX__
 Version 3.61
